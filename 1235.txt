@@ -1,3 +1,4 @@
 "hello, world !"
 "i am add chanhed - on another PC"
 "ok, and i agree to this"
+"but i insist on the necessary corrections"
